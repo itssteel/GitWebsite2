@@ -1,0 +1,9 @@
+C:\Documents and Settings\153259\My Documents\Visual Studio 2008\Projects\GitWebsite\bin\GitWebsite.dll
+C:\Documents and Settings\153259\My Documents\Visual Studio 2008\Projects\GitWebsite\bin\GitWebsite.pdb
+C:\Documents and Settings\153259\My Documents\Visual Studio 2008\Projects\GitWebsite\bin\GitWebsite.xml
+C:\Documents and Settings\153259\My Documents\Visual Studio 2008\Projects\GitWebsite\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\153259\My Documents\Visual Studio 2008\Projects\GitWebsite\obj\Debug\GitWebsite.Resources.resources
+C:\Documents and Settings\153259\My Documents\Visual Studio 2008\Projects\GitWebsite\obj\Debug\GitWebsite.vbproj.GenerateResource.Cache
+C:\Documents and Settings\153259\My Documents\Visual Studio 2008\Projects\GitWebsite\obj\Debug\GitWebsite.dll
+C:\Documents and Settings\153259\My Documents\Visual Studio 2008\Projects\GitWebsite\obj\Debug\GitWebsite.xml
+C:\Documents and Settings\153259\My Documents\Visual Studio 2008\Projects\GitWebsite\obj\Debug\GitWebsite.pdb
