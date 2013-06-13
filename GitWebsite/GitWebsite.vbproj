@@ -84,6 +84,7 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="Web.config" />
+    <Content Include="Global.asax">
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Default.aspx.vb">
@@ -92,6 +93,9 @@
     </Compile>
     <Compile Include="Default.aspx.designer.vb">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.vb">
+    <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
