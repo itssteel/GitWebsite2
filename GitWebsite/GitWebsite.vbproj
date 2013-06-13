@@ -84,7 +84,7 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="Web.config" />
-    <Content Include="Global.asax">
+    <Content Include="Global.asax"/>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Default.aspx.vb">
