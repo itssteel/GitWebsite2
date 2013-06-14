@@ -16,7 +16,7 @@ Public Class Global_asax
     End Sub
 
     Sub Application_AuthenticateRequest(ByVal sender As Object, ByVal e As EventArgs)
-        ' Fires upon attempting to authenticate the use
+        ' Fires upon attempting to authenticate the use or user
     End Sub
 
     Sub Application_Error(ByVal sender As Object, ByVal e As EventArgs)
